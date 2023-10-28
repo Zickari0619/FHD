@@ -16,6 +16,9 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/602191
 #EXTINF:-1 tvg-logo="" group-title="",CANAL 5
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591572
 
+#EXTINF:-1 tvg-logo="" group-title="",MONITV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1925784749.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",ADN 40
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591671
 
