@@ -71,4 +71,4 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591602
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591566
 
 #EXTINF:-1 tvg-logo="" group-title="",TELEHIT
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591635
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592003
