@@ -1,4 +1,23 @@
 # FHD
+#EXTINF:-1 tvg-logo="" group-title="",WARNER CHANEL
+http://138.59.177.34:8000/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AXN
+http://138.59.177.34:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO
+http://138.59.177.34:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO 2
+http://138.59.177.34:8000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO+
+http://138.59.177.34:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",HBO XTREME
+http://138.59.177.34:8000/play/a01q/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="",TV CUATRO
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591647
