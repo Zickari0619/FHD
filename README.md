@@ -29,6 +29,9 @@ http://138.59.177.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CINE CANAL
 http://138.59.177.34:8000/play/a05f/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",CLARO CINEMA
+http://138.59.177.34:8000/play/a05b/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",DHE
 http://138.59.177.34:8000/play/a038/index.m3u8
 
@@ -132,6 +135,12 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591602
 
 #EXTINF:-1 tvg-logo="" group-title="",BANDAMAX
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591566
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV 00S
+http://138.59.177.34:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",MTV LIVE
+http://138.59.177.34:8000/play/a05q/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TELEHIT
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592003
