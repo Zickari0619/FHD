@@ -32,6 +32,9 @@ http://138.59.177.34:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CLARO CINEMA
 http://138.59.177.34:8000/play/a05b/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",CLIC
+http://138.59.177.34:8000/play/a039/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",DHE
 http://138.59.177.34:8000/play/a038/index.m3u8
 
@@ -145,6 +148,8 @@ http://138.59.177.34:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TELEHIT
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592003
 
+#EXTINF:-1 tvg-logo="" group-title="",ESPN
+http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WARNER CHANNEL
 http://138.59.177.34:8000/play/a05d/index.m3u8
 
