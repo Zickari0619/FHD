@@ -1,21 +1,46 @@
-# FHD
-#EXTINF:-1 tvg-logo="" group-title="",FX
-http://138.59.177.34:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ADN 40
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591671
 
-#EXTINF:-1 tvg-logo="" group-title="",SONY CHANEL
-http://138.59.177.34:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AFIZZIONADOS
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591563
 
-#EXTINF:-1 tvg-logo="" group-title="",SONY MOVIE
-http://138.59.177.34:8000/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AZTECA UNO
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591569
+
+#EXTINF:-1 tvg-logo="" group-title="",AZTECA MUNDO
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/602191
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="",A&E
+http://138.59.177.34:8000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",AXN
+http://138.59.177.34:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CANAL 5
+http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591572
+
+#EXTINF:-1 tvg-logo="" group-title="",CINE LATINO
+http://138.59.177.34:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",CINE CANAL
+http://138.59.177.34:8000/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",DHE
+http://138.59.177.34:8000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FILM & ARTS
 http://138.59.177.34:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",WARNER CHANEL
-http://138.59.177.34:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FX
+http://138.59.177.34:8000/play/a035/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-http://138.59.177.34:8000/play/a06w/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
@@ -29,30 +54,36 @@ http://138.59.177.34:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO XTREME
 http://138.59.177.34:8000/play/a01q/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="",PARAMOUNT
+http://138.59.177.34:8000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SPACE
+http://138.59.177.34:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL
+http://138.59.177.34:8000/play/a05c/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL
 http://138.59.177.34:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SONY CHANNEL
+http://138.59.177.34:8000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",SONY MOVIE
+http://138.59.177.34:8000/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+http://138.59.177.34:8000/play/a05l/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIES
+http://138.59.177.34:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TV CUATRO
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591647
 
-#EXTINF:-1 tvg-logo="" group-title="",AFIZZIONADOS
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591563
-
-
-#EXTINF:-1 tvg-logo="" group-title="",AZTECA UNO
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591569
-
-#EXTINF:-1 tvg-logo="" group-title="",AZTECA MUNDO
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/602191
-
-#EXTINF:-1 tvg-logo="" group-title="",CANAL 5
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591572
-
 #EXTINF:-1 tvg-logo="" group-title="",MONITV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1925784749.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",ADN 40
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591671
 
 #EXTINF:-1 tvg-logo="" group-title="",UNIVISION
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591674
@@ -104,3 +135,7 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591566
 
 #EXTINF:-1 tvg-logo="" group-title="",TELEHIT
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592003
+
+#EXTINF:-1 tvg-logo="" group-title="",WARNER CHANNEL
+http://138.59.177.34:8000/play/a05d/index.m3u8
+
