@@ -4,15 +4,11 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591671
 #EXTINF:-1 tvg-logo="" group-title="",AFIZZIONADOS
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591563
 
-
 #EXTINF:-1 tvg-logo="" group-title="",AZTECA UNO
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591569
 
 #EXTINF:-1 tvg-logo="" group-title="",AZTECA MUNDO
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/602191
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://138.59.177.34:8000/play/a032/index.m3u8
@@ -43,10 +39,6 @@ http://138.59.177.34:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",FX
 http://138.59.177.34:8000/play/a035/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
@@ -90,7 +82,6 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591647
 #EXTINF:-1 tvg-logo="" group-title="",MONITV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w1925784749.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="",UNIVISION
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591674
 
@@ -133,12 +124,6 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/859643
 #EXTINF:-1 tvg-logo="" group-title="",CANAL 13 
 http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/862957
 
-#EXTINF:-1 tvg-logo="" group-title="",TELERITMO
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591602
-
-#EXTINF:-1 tvg-logo="" group-title="",BANDAMAX
-http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/591566
-
 #EXTINF:-1 tvg-logo="" group-title="",MTV 00S
 http://138.59.177.34:8000/play/a05r/index.m3u8
 
@@ -150,6 +135,7 @@ http://dnslivetv.online:80/Alienhost400/WCwuhHbSJAjY/592003
 
 #EXTINF:-1 tvg-logo="" group-title="",ESPN
 http://138.59.177.34:8000/play/a070/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",WARNER CHANNEL
 http://138.59.177.34:8000/play/a05d/index.m3u8
 
